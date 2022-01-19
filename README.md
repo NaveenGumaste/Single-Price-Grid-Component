@@ -1,15 +1,15 @@
-# Frontend Mentor - Stats preview card component solution
+# Frontend Mentor - Single price grid component
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
-  - [Screenshot](https://snipboard.io/267afD.jpg)
+  - [Screenshot](https://snipboard.io/E69XA1.jpg)
 - [My process](#my-process)
   - [Built with] ( "HTML5 & Plain CSS ")
-  - [What I learned] ( "Grid layouts ")
+  - [What I learned] ( "Grid layouts" , "Responsive Designing for diff screens" )
 
 ## Overview
 
@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://snipboard.io/267afD.jpg)
+![](https://snipboard.io/E69XA1.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://t.co/5Jo2vAITlQ)
-- Live Site URL: [Add live site URL here](https://monks-stats-card.netlify.app/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/single-price-grid-component-responsive-for-smaller-screens-XrESHOeAE)
+- Live Site URL: [Add live site URL here](https://monks-single-price-grid.netlify.app/)
 
 
 ### Built with
