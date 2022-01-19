@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/single-price-grid-component-responsive-for-smaller-screens-XrESHOeAE)
-- Live Site URL: [Add live site URL here](https://monks-single-price-grid.netlify.app/)
+- Solution URL: [Single Price Grid Component](https://www.frontendmentor.io/solutions/single-price-grid-component-responsive-for-smaller-screens-XrESHOeAE)
+- Live Site URL: [Live Page](https://monks-single-price-grid.netlify.app/)
 
 
 ### Built with
